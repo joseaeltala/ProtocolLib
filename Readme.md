@@ -10,7 +10,7 @@ Critically, different plugins that use this approach may _hook_ into the same cl
 with unpredictable outcomes. More than often this causes plugins to crash, but it may also
 lead to more subtle bugs.
 
-### Resources
+### Resources 
 
 * [Resource Page](https://www.spigotmc.org/resources/protocollib.1997/)
 * [Dev Builds](https://ci.dmulloy2.net/job/ProtocolLib)
